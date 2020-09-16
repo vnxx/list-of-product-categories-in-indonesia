@@ -1488,7 +1488,7 @@
                     {
                         "id": 286,
                         "name": "Ice - Rice Bucket",
-                        "slug": "ice---rice-bucket"
+                        "slug": "ice-rice-bucket"
                     },
                     {
                         "id": 287,
@@ -6529,7 +6529,7 @@
                     {
                         "id": 1241,
                         "name": "Converter - Teleconverter",
-                        "slug": "converter---teleconverter"
+                        "slug": "converter-teleconverter"
                     },
                     {
                         "id": 1242,
@@ -7351,7 +7351,7 @@
             {
                 "id": 1396,
                 "name": "Obat - Obatan",
-                "slug": "obat---obatan",
+                "slug": "obat-obatan",
                 "child": [
                     {
                         "id": 1397,
@@ -8545,7 +8545,7 @@
             {
                 "id": 1624,
                 "name": "Mainan Anak - Anak",
-                "slug": "mainan-anak---anak",
+                "slug": "mainan-anak-anak",
                 "child": [
                     {
                         "id": 1625,
@@ -8898,7 +8898,7 @@
                     {
                         "id": 1691,
                         "name": "Bahan Puding & Agar - Agar",
-                        "slug": "bahan-puding-agar---agar"
+                        "slug": "bahan-puding-agar-agar"
                     },
                     {
                         "id": 1692,
@@ -9644,7 +9644,7 @@
                     {
                         "id": 1833,
                         "name": "Tepung Roti - Panir",
-                        "slug": "tepung-roti---panir"
+                        "slug": "tepung-roti-panir"
                     },
                     {
                         "id": 1834,
@@ -9790,7 +9790,7 @@
                     {
                         "id": 1861,
                         "name": "Jurnal - Diary",
-                        "slug": "jurnal---diary"
+                        "slug": "jurnal-diary"
                     },
                     {
                         "id": 1862,
@@ -9837,7 +9837,7 @@
                     {
                         "id": 1870,
                         "name": "Lemari File - Filling Cabinet",
-                        "slug": "lemari-file---filling-cabinet"
+                        "slug": "lemari-file-filling-cabinet"
                     },
                     {
                         "id": 1871,
@@ -11391,7 +11391,7 @@
                     {
                         "id": 2168,
                         "name": "Handle - Handfat Motor",
-                        "slug": "handle---handfat-motor"
+                        "slug": "handle-handfat-motor"
                     },
                     {
                         "id": 2169,
@@ -12977,7 +12977,7 @@
                     {
                         "id": 2469,
                         "name": "Balon Tepuk - Supporter",
-                        "slug": "balon-tepuk---supporter"
+                        "slug": "balon-tepuk-supporter"
                     },
                     {
                         "id": 2470,
@@ -13180,7 +13180,7 @@
                     {
                         "id": 2508,
                         "name": "Selempang - Sash",
-                        "slug": "selempang---sash"
+                        "slug": "selempang-sash"
                     },
                     {
                         "id": 2509,
@@ -13222,7 +13222,7 @@
                     {
                         "id": 2516,
                         "name": "Party Popper - Confetti",
-                        "slug": "party-popper---confetti"
+                        "slug": "party-popper-confetti"
                     },
                     {
                         "id": 2517,
@@ -13389,7 +13389,7 @@
                     {
                         "id": 2548,
                         "name": "Patch - Emblem",
-                        "slug": "patch---emblem"
+                        "slug": "patch-emblem"
                     },
                     {
                         "id": 2549,
@@ -13404,7 +13404,7 @@
                     {
                         "id": 2551,
                         "name": "Renda - Bordir",
-                        "slug": "renda---bordir"
+                        "slug": "renda-bordir"
                     },
                     {
                         "id": 2552,
