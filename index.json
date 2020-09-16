@@ -1766,7 +1766,7 @@
                     {
                         "id": 340,
                         "name": "Cetakan Es, Puding, Coklat",
-                        "slug": "cetakan-es,-puding,-coklat"
+                        "slug": "cetakan-es-puding-coklat"
                     },
                     {
                         "id": 341,
@@ -5880,7 +5880,7 @@
                     {
                         "id": 1119,
                         "name": "Swinger, Rocker & Bouncer Bayi",
-                        "slug": "swinger,-rocker-bouncer-bayi"
+                        "slug": "swinger-rocker-bouncer-bayi"
                     }
                 ]
             },
@@ -6467,7 +6467,7 @@
             {
                 "id": 1229,
                 "name": "Frame, Album & Roll Film",
-                "slug": "frame,-album-roll-film",
+                "slug": "frame-album-roll-film",
                 "child": [
                     {
                         "id": 1230,
@@ -8245,7 +8245,7 @@
                     {
                         "id": 1567,
                         "name": "Baju, Rompi & Celana Airsoft",
-                        "slug": "baju,-rompi-celana-airsoft"
+                        "slug": "baju-rompi-celana-airsoft"
                     },
                     {
                         "id": 1568,
@@ -8270,7 +8270,7 @@
                     {
                         "id": 1572,
                         "name": "Holster, Case & Tas Airsoft",
-                        "slug": "holster,-case-tas-airsoft"
+                        "slug": "holster-case-tas-airsoft"
                     },
                     {
                         "id": 1573,
@@ -8280,7 +8280,7 @@
                     {
                         "id": 1574,
                         "name": "Scope, Spring & Magazine Airsoft",
-                        "slug": "scope,-spring-magazine-airsoft"
+                        "slug": "scope-spring-magazine-airsoft"
                     },
                     {
                         "id": 1575,
@@ -12052,7 +12052,7 @@
                     {
                         "id": 2295,
                         "name": "Kaliper, Cakram dan Tromol Motor",
-                        "slug": "kaliper,-cakram-dan-tromol-motor"
+                        "slug": "kaliper-cakram-dan-tromol-motor"
                     },
                     {
                         "id": 2296,
@@ -12585,7 +12585,7 @@
             {
                 "id": 2395,
                 "name": "Parfum, Cologne, & Fragrance",
-                "slug": "parfum,-cologne,-fragrance",
+                "slug": "parfum-cologne-fragrance",
                 "child": [
                     {
                         "id": 2396,
@@ -15698,7 +15698,7 @@
                     {
                         "id": 2992,
                         "name": "Sim Card Singapore, Malaysia, Thailand",
-                        "slug": "sim-card-singapore,-malaysia,-thailand"
+                        "slug": "sim-card-singapore-malaysia-thailand"
                     },
                     {
                         "id": 2993,
@@ -15708,7 +15708,7 @@
                     {
                         "id": 2994,
                         "name": "Sim Card China, Hong Kong, Macau",
-                        "slug": "sim-card-china,-hong-kong,-macau"
+                        "slug": "sim-card-china-hong-kong-macau"
                     },
                     {
                         "id": 2995,
@@ -15958,7 +15958,7 @@
             {
                 "id": 3040,
                 "name": "Kecantikan, Hair & Makeup",
-                "slug": "kecantikan,-hair-makeup",
+                "slug": "kecantikan-hair-makeup",
                 "child": [
                     {
                         "id": 3041,
@@ -16128,7 +16128,7 @@
                     {
                         "id": 3072,
                         "name": "Kursi, Meja, Perabotan",
-                        "slug": "kursi,-meja,-perabotan"
+                        "slug": "kursi-meja-perabotan"
                     },
                     {
                         "id": 3073,
