@@ -4403,48 +4403,7 @@
             {
                 "name": "Akun Game",
                 "slug": "akun-game",
-                "child": [
-                    {
-                        "name": "Genshin Impact",
-                        "slug": "genshin-impact"
-                    },
-                    {
-                        "name": "Yu-Gi-Oh! Duel Links",
-                        "slug": "yu-gi-oh-duel-links"
-                    },
-                    {
-                        "name": "Black Desert Mobile",
-                        "slug": "black-desert-mobile"
-                    },
-                    {
-                        "name": "Black Desert Online",
-                        "slug": "black-desert-online"
-                    },
-                    {
-                        "name": "Fate/Grand Order",
-                        "slug": "fate-grand-order"
-                    },
-                    {
-                        "name": "Arknights",
-                        "slug": "arknights"
-                    },
-                    {
-                        "name": "League of Legends: Wild Rift",
-                        "slug": "league-of-legends-wild rift"
-                    },
-                    {
-                        "name": "Azur Lane",
-                        "slug": "azur-lane"
-                    },
-                    {
-                        "name": "Pokémon GO",
-                        "slug": "pokemon-go"
-                    },
-                    {
-                        "name": "Sky: Children of the Light",
-                        "slug": "sky-children-of-the-light"
-                    }
-                ]
+                "child": []
             },
             {
                 "name": "Item Game",
